@@ -25,11 +25,11 @@ Implementação: Implementar o sistema de reconhecimento de voz em larga escala 
 O desenvolvimento de um sistema de reconhecimento de voz para deficientes auditivos é uma pesquisa relevante e importante. A deficiência auditiva é um problema que afeta milhões de pessoas em todo o mundo, e a comunicação é um aspecto fundamental da vida humana. Atualmente, existem várias tecnologias disponíveis para auxiliar os deficientes auditivos, como aparelhos auditivos e implantes cocleares. No entanto, essas soluções podem não ser adequadas para todos e podem ter limitações. O desenvolvimento de um sistema de reconhecimento de voz pode ajudar a superar essa barreira e permitir que as pessoas com deficiência auditiva se comuniquem mais facilmente. Além disso, a deficiência auditiva pode levar a sentimentos de isolamento e solidão, e o desenvolvimento de um sistema de reconhecimento de voz pode ajudar a reduzir esses sentimentos, melhorando a qualidade de vida das pessoas com deficiência auditiva. Este projeto não só beneficiará diretamente as pessoas com deficiência auditiva, mas também terá um impacto social mais amplo. Ao facilitar a comunicação para pessoas com deficiência auditiva, estamos promovendo a inclusão social e garantindo que todos tenham as mesmas oportunidades de participar plenamente da sociedade. O público-alvo desta pesquisa são pessoas com deficiência auditiva, e o sistema de reconhecimento de voz pode ajudar essas pessoas a se comunicarem mais facilmente com outras pessoas.
 
 ### Referências
-https://www.cc.faccamp.br/Dissertacoes/BrunoAmaral.pdf
-https://www.conic-semesp.org.br/anais/files/2019/trabalho-1000002943.pdf
-https://bdm.unb.br/bitstream/10483/15827/1/2015_MarcioRobertoFariasAlves_tcc.pdf
-https://portaldoenvelhecimento.com.br/sistema-facilita-a-comunicacao-com-deficiente-auditivo-e-surdo/
-https://www.scielo.br/j/paideia/a/mQJ6BpQzK3twNsxmCyDh8xy/
+## https://www.cc.faccamp.br/Dissertacoes/BrunoAmaral.pdf
+## https://www.conic-semesp.org.br/anais/files/2019/trabalho-1000002943.pdf
+## https://bdm.unb.br/bitstream/10483/15827/1/2015_MarcioRobertoFariasAlves_tcc.pdf
+## https://portaldoenvelhecimento.com.br/sistema-facilita-a-comunicacao-com-deficiente-auditivo-e-surdo/
+## https://www.scielo.br/j/paideia/a/mQJ6BpQzK3twNsxmCyDh8xy/
 
 <!--
 **crazy10s2/crazy10s2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
