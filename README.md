@@ -15,10 +15,15 @@ Desenvolver um sistema de reconhecimento de voz para deficientes auditivos, util
 ### Objetivos Específicos
 Para alcançar o objetivo geral de desenvolver um sistema de reconhecimento de voz para deficientes auditivos que possa ajudar essas pessoas a se comunicar mais facilmente, podemos seguir as seguintes etapas:
   1. Pesquisa: Realizar uma pesquisa detalhada sobre as principais dificuldades enfrentadas pelas pessoas com deficiência auditiva ao se comunicar. Isso ajudará a identificar as necessidades específicas do seu público-alvo e a desenvolver um sistema que atenda a essas necessidades.
+  
   2. Coleta de dados: Coletar dados de áudio de pessoas com deficiência auditiva e pessoas sem deficiência auditiva. Isso ajudará a treinar o modelo de aprendizado de máquina para reconhecer a fala de pessoas com deficiência auditiva.
+    
   3. Treinamento do modelo: Usar técnicas de aprendizado de máquina para treinar o modelo de reconhecimento de voz. Isso envolve a criação de um conjunto de dados de treinamento e teste, a seleção de um algoritmo de aprendizado de máquina adequado e a otimização dos parâmetros do modelo.
+     
   4. Desenvolvimento do software: Desenvolver o software necessário para implementar o sistema de reconhecimento de voz. Isso envolve a integração do modelo de aprendizado de máquina com o software de reconhecimento de voz e a criação de uma interface de usuário amigável.
+     
   5. Teste e validação: Testar o sistema de reconhecimento de voz em condições reais e valide sua eficácia. Isso envolve a coleta de feedback dos usuários e a realização de testes de usabilidade.
+      
   6. Implementação: Implementar o sistema de reconhecimento de voz em larga escala e disponibilizá-lo para as pessoas com deficiência auditiva.
 
 ### Justificativa
