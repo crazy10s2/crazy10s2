@@ -1,4 +1,4 @@
-# Reconhecimento de voz para deficientes auditivos
+# Reconhecimento de voz para deficientes auditivos📊
 ## Introdução
 O reconhecimento de voz é uma tecnologia que permite que os dispositivos eletrônicos convertam o som da fala humana em texto escrito ou comandos de controle. Essa tecnologia pode ser útil para diversas aplicações, como assistentes virtuais, transcrição de áudio, tradução automática e acessibilidade. No entanto, uma das limitações do reconhecimento de voz é que ele depende da capacidade auditiva do usuário para captar e interpretar os sons da fala. Para as pessoas com deficiência auditiva, que representam cerca de 5% da população mundial, o reconhecimento de voz pode ser uma ferramenta desafiadora ou inacessível.
 
